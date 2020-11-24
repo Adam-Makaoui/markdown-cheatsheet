@@ -2,7 +2,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 
-# Heading 1 #
+# Heading 1 
 
     Markup :  # Heading 1 #
 
@@ -10,7 +10,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup :  ============= (below H1 text)
 
-## Heading 2 ##
+## Heading 2 
 
     Markup :  ## Heading 2 ##
 
@@ -18,11 +18,11 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup: --------------- (below H2 text)
 
-### Heading 3 ###
+### Heading 3 
 
     Markup :  ### Heading 3 ###
 
-#### Heading 4 ####
+#### Heading 4 
 
     Markup :  #### Heading 4 ####
 
